@@ -1,4 +1,0 @@
-beautifulsoup4==4.13.4
-pdf2image==1.17.0
-python_docx==1.1.2
-streamlit==1.45.1
