@@ -24,7 +24,7 @@ Convert PDFs to structured Word documents using [Chandra OCR](https://github.com
 **1. Clone and create virtual environment**
 
 ```bash
-git clone https://github.com/your-username/chandra-ocr-pipeline.git
+git clone https://github.com/mdmonsurali/Optical-character-recognition-OCR-/tree/main/ChandraOCR
 cd chandra-ocr-pipeline
 
 python3 -m venv chandra-ocr
