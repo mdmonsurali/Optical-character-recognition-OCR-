@@ -1,0 +1,5 @@
+chandra-ocr
+vllm
+pdf2image
+beautifulsoup4
+python-docx
