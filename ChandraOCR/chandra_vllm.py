@@ -6,7 +6,7 @@ from chandra.model import InferenceManager
 from chandra.model.schema import BatchInputItem
 from html_to_docx import html_string_to_docx
 
-PDF_PATH = "documents/EBK700_2000_SBU Komfort gedrehte Seiten.pdf"
+PDF_PATH = "documents/lab_report.pdf"
 OUTPUT_DIR = "./output"
 Path(OUTPUT_DIR).mkdir(exist_ok=True)
 
